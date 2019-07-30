@@ -1,0 +1,12 @@
+imageio==2.5.0
+matplotlib==3.1.0
+numpy==1.16.4
+pickleshare==0.7.5
+Pillow==6.0.0
+progressbar==2.5
+pycocotools==2.0
+scikit-image==0.15.0
+scipy==1.2.1
+selectivesearch==0.4
+torch==1.1.0
+torchvision==0.3.0
