@@ -8,5 +8,5 @@ pycocotools==2.0
 scikit-image==0.15.0
 scipy==1.2.1
 selectivesearch==0.4
-torch==1.1.0
+torch==1.13.1
 torchvision==0.3.0
